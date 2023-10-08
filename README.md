@@ -23,4 +23,4 @@
 *그러나, 예술업계에서 기부금과 멤버십으로 사용하는 시스템으로 이러한 기부금으로 비영리 공연예술조직을 설립하여 신규 단골 고객을 포섭하는 방식을 사용
 실제로, 한 연구결과에 따르면, 공연예술 구매자들의 가격 공정성 지각이  동적 가격제의 도입에 따라 유의미한 결과가 있는지를 연구하자, 부정적인 의견이 적을 것이라는 결과
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![footer](https://capsule-render.vercel.app/api?section=footer)
