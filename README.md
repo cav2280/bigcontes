@@ -1,6 +1,6 @@
 # bigcontest
 
-$ virtualenv -p python3 venv
+#3776AB
 
 ### 데이터 출저
 예술의 전당 데이터를 사용
