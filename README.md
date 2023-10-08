@@ -1,6 +1,6 @@
 # bigcontest
 
-#3776AB
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ### 데이터 출저
 예술의 전당 데이터를 사용
