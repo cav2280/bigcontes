@@ -81,8 +81,8 @@
 
 #### tokenized_discount
 - 1 = 초대권과 차액 하나로 묶음 (둘다 완벽히 무료인 것들이 존재는 하나 무료가 아닌 것들이 있고 할인율을 완벽히 알수가없는것에 비슷함으로 봄) 
-- 2 = 할인을 <mark style='background-color: #ffdce0'> 40%미만으로 받은 고객 </mark>
-- 3 = 할인을 <mark style='background-color: #ffdce0'> 40%이상으로 받은 고객 </mark> 
+- 2 = 할인을 <font color='#1E90FF'> 40%미만으로 받은 고객 </font>
+- 3 = 할인을 <font color='#1E90FF'> 40%이상으로 받은 고객 </font> 
 - 4 = 할인 받지않고 원가액으로 본 고객(일반)
 - 5 = ’기획사’이라는 discount_type열의 토큰값 
 - 6 = '장애인’과 '국가유공자’가 해택이 묶여있는 경우가 많아서 2개를 하나의 토큰으로 묶음 
