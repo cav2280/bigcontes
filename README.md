@@ -90,7 +90,9 @@
 
 ------------------------------------------------------
 ## 군집화
-   ![1](https://github.com/cav2280/bigcontest/assets/139084776/d0070198-be7d-4de5-acd4-894f42ee13c6)
+
+- 비인기/인기 공연들을 예매율을 기준으로 n개로 군집화 시도
+  - 여러개의 군집화를 진행시킨 결과 n = 3 일 때 집단이 분명하게 드러났음  ![1](https://github.com/cav2280/bigcontest/assets/139084776/d0070198-be7d-4de5-acd4-894f42ee13c6)
 
    
 ![footer](https://capsule-render.vercel.app/api?section=footer&height=100)
