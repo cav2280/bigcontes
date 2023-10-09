@@ -92,7 +92,13 @@
 ## 군집화
 
 - 비인기/인기 공연들을 예매율을 기준으로 n개로 군집화 시도
-  - 여러개의 군집화를 진행시킨 결과 n = 3 일 때 집단이 분명하게 드러났음  ![1](https://github.com/cav2280/bigcontest/assets/139084776/d0070198-be7d-4de5-acd4-894f42ee13c6)
+  - 여러개의 군집화를 진행시킨 결과 n = 3 일 때 집단이 분명하게 드러났음
 
+-비인기 공연 군집과 인기 공연 군집의 가격, 할인 유형의 갯수와 할인율의 특성 차이를 비교분석
+ 
+   ![1](https://github.com/cav2280/bigcontest/assets/139084776/d0070198-be7d-4de5-acd4-894f42ee13c6)
+   ![2](https://github.com/cav2280/bigcontest/assets/139084776/4a1ac0c1-464b-4689-9802-8f41cdf02a1d)
+   ![3](https://github.com/cav2280/bigcontest/assets/139084776/77f47daa-ebb7-48f2-ba95-85dfaa32381d)
+   ![4](https://github.com/cav2280/bigcontest/assets/139084776/52531fe9-50ad-498f-b09a-08869e397829)
    
 ![footer](https://capsule-render.vercel.app/api?section=footer&height=100)
