@@ -99,6 +99,12 @@
    ![1](https://github.com/cav2280/bigcontest/assets/139084776/d0070198-be7d-4de5-acd4-894f42ee13c6)
    ![2](https://github.com/cav2280/bigcontest/assets/139084776/4a1ac0c1-464b-4689-9802-8f41cdf02a1d)
    ![3](https://github.com/cav2280/bigcontest/assets/139084776/77f47daa-ebb7-48f2-ba95-85dfaa32381d)
-   ![4](https://github.com/cav2280/bigcontest/assets/139084776/52531fe9-50ad-498f-b09a-08869e397829)
+
+- 3개의 집단 중 예매율이 제일 낮은 군집(=비인기 그룹)을 따로 **할인율 조정** 분석에 이용
+
+   ![4](https://github.com/cav2280/bigcontest/assets/139084776/52531fe9-50ad-498f-b09a-08869e397829
+
+--------------------------------------------------
+## 모델 선정
    
 ![footer](https://capsule-render.vercel.app/api?section=footer&height=100)
