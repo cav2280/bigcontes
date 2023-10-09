@@ -107,7 +107,7 @@
 --------------------------------------------------
 ## 모델 선정
 
-- 5가지 머신러닝들을 (KNN , 결정트리 , 랜덤 포레스트, Gredient Boosting , Imputation Using Multivariate) 을 각각 학습 시키고 정확도 비교
+- 3 가지 머신러닝들을 (, 랜덤 포레스트, Gredient Boosting , XG부스팅) 을 각각 학습 시키고 정확도 비교
    + 결과 정확도가 제일 높은 Gredient Boosting 모델 선정 
 
 - 수치형에 해당하는 열들은 스케일링 처리
