@@ -94,7 +94,7 @@
 - 비인기/인기 공연들을 예매율을 기준으로 n개로 군집화 시도
   - 여러개의 군집화를 진행시킨 결과 n = 3 일 때 집단이 분명하게 드러났음
 
--비인기 공연 군집과 인기 공연 군집의 가격, 할인 유형의 갯수와 할인율의 특성 차이를 비교분석
+- 비인기 공연 군집과 인기 공연 군집의 가격, 할인 유형의 갯수와 할인율의 특성 차이를 비교분석
  
    ![1](https://github.com/cav2280/bigcontest/assets/139084776/d0070198-be7d-4de5-acd4-894f42ee13c6)
    ![2](https://github.com/cav2280/bigcontest/assets/139084776/4a1ac0c1-464b-4689-9802-8f41cdf02a1d)
@@ -106,5 +106,11 @@
 
 --------------------------------------------------
 ## 모델 선정
-   
+- 5가지 머신러닝들을 '''KNN , 결정트리 , 랜덤 포레스트, Gredient Boosting , Imputation Using Multivariate''' 을 각각 학습 시키고 정확도 비교
+   →  Gredient Boosting 모델 선정 
+수치형에 해당하는 열들은 스케일링 처리
+    →    학습시간 감소, 정확도 증가 
+예매율과 가격예측에 사용하기로 선정
+
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&height=100)
