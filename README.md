@@ -90,7 +90,7 @@
 
 ------------------------------------------------------
 ## 군집화
-   https://github.com/cav2280/bigcontest/issues/1#issue-1932418426
+   ![1](https://github.com/cav2280/bigcontest/assets/139084776/d0070198-be7d-4de5-acd4-894f42ee13c6)
 
    
 ![footer](https://capsule-render.vercel.app/api?section=footer&height=100)
