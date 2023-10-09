@@ -69,8 +69,8 @@
 - **콘서트홀**
     - R = 1층 BCD 전석 / 2층 BCD 1~3열
     - S = 1층 AE / 2층 AD 1~3열 , BCD 4~6열
-    - A = 2층 AD 4~7열 / 3층 BCDEF 4~7열 & box석
-    - B = 3층 AGMN 전석 & box석
+    - A = 2층 AD 4~7열 / 3층 BCDEF 4~7열 , box석
+    - B = 3층 AGMN 전석 , box석
 
 - **IBK챔버홀**
     - R = 1층 ABC 1~11 / BOX
