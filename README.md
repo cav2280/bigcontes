@@ -106,11 +106,12 @@
 
 --------------------------------------------------
 ## 모델 선정
-- 5가지 머신러닝들을 '''KNN , 결정트리 , 랜덤 포레스트, Gredient Boosting , Imputation Using Multivariate''' 을 각각 학습 시키고 정확도 비교
+- 5가지 머신러닝들을 'KNN , 결정트리 , 랜덤 포레스트, Gredient Boosting , Imputation Using Multivariate' 을 각각 학습 시키고 정확도 비교
    →  Gredient Boosting 모델 선정 
-수치형에 해당하는 열들은 스케일링 처리
-    →    학습시간 감소, 정확도 증가 
-예매율과 가격예측에 사용하기로 선정
+
+- 수치형에 해당하는 열들은 스케일링 처리
+    - 학습시간 감소, 정확도 증가 
+       - 예매율과 가격예측에 사용하기로 선정
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&height=100)
