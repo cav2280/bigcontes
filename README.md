@@ -102,8 +102,8 @@
 - 3개의 집단 중 예매율이 제일 낮은 군집(=비인기 그룹)을 따로 **할인율 조정** 분석에 이용
   - 0번 집단을 집중적으로 할인율 조정
   - 0번 집단은 할인율흐름으로 5구간으로 분류
-![1-1](https://github.com/cav2280/bigcontest/assets/139084776/35b06634-d4c8-402f-9c7e-c913318d62bc)
-![1-3](https://github.com/cav2280/bigcontest/assets/139084776/bd0c32cd-ceac-4a13-b430-655aad3abbe6)
+   ![1-1](https://github.com/cav2280/bigcontest/assets/139084776/35b06634-d4c8-402f-9c7e-c913318d62bc)
+   ![1-3](https://github.com/cav2280/bigcontest/assets/139084776/bd0c32cd-ceac-4a13-b430-655aad3abbe6)
 
 --------------------------------------------------
 ## 모델 선정
@@ -124,11 +124,11 @@
    - IBK챔버홀:600석
    - 리사이틀홀:354석
    - 콘서트홀:2505석
-![6-1](https://github.com/cav2280/bigcontest/assets/139084776/8008a345-ae09-46bb-b0b7-c3c8be3cf7dd)
+   ![6-1](https://github.com/cav2280/bigcontest/assets/139084776/8008a345-ae09-46bb-b0b7-c3c8be3cf7dd)
 
 - 할인율과 예매취소율의 **상관관계성**을 확인함.
 
-   ![5](https://github.com/cav2280/bigcontest/assets/139084776/89a31892-b0a0-4716-9c86-b99e6e5ff08e)
+   
    ![6](https://github.com/cav2280/bigcontest/assets/139084776/266d4eac-87d3-4400-9a9b-da6ddebb5082)
 
 -------------------------------------------------------------------------
